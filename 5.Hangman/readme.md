@@ -19,7 +19,3 @@ Hangman is a classic word-guessing game where players try to guess a hidden word
 1. Clone or download this repository.
 2. Make sure you have Python installed on your system.
 3. Run main.py using Python to start the game.
-# File Structure
-* main.py: Contains the main code for the Hangman game, including the predefined list of words.
-# Contributing
-Contributions are welcome! If you have any suggestions, bug reports, or enhancements, feel free to open an issue or submit a pull request.
